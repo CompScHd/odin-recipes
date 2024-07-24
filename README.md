@@ -1,1 +1,4 @@
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it.
+Learning the HTML tags:
+HTML boilerplate
+Lists
+Links and Images
