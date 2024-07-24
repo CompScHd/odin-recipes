@@ -1,4 +1,4 @@
-Learning the HTML tags:
+Learning HTML tags:
 HTML boilerplate
 Lists
 Links and Images
